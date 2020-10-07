@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+  
+}
+
+.sec1 {
+  background: #008b8b;
+  text-align: center;
+  height: 20em;
+}
+.sec2 {
+  display: flex;
+  background: #FF7F50;
+  height: 60em;
+}
+.menu{
+  display: flex;
+  width:20%;
+  border: 1px dashed white;
+  
+}
+
+.menuList {
+  background: white;
+}
+.menu-1 {
+  border: 1px solid white;
+  background: white;
+  margin: 1em;
+  width: 100%;
+}
+.content {
+  text-align: center;
+  width: 60%;
+  border: 1px dashed white;
+}
+.ad {
+  width:20%;
+  border: 1px dashed white
+
+}
+.sec3 {
+  background: #F0E68C;
+  font-weight: bold;
+  text-align: center;
+  height: 20em;
+  
+  
+}
+
+.all {
+  height: 100em;
+}
+#Hamster {
+  margin: 10em
+}
